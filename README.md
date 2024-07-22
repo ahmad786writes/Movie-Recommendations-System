@@ -29,7 +29,7 @@ To get started with this project, follow these steps:
 Prepare the dataset:
 
 1. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata). Place the dataset files in the appropriate directory within the project.
-2. Run the recommendation systet Notebook
+2. Run the recommendation system Notebook
 3. Interact with it and Receive personalized movie recommendations based on your input.
 
 ## 📈 Model Performance
